@@ -1,4 +1,4 @@
-CLIENTE
+SGCL
 =======
 
-Modulo de cadastro do cliente
+Sistema de gerenciamento de carro de leilao
